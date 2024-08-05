@@ -1,0 +1,104 @@
+{
+  "BusinessUnitId": "24f63092-67e8-ee11-a203-00224893b0ed",
+  "CorrelationId": "988a0a74-5544-40fa-8886-aa2016b24dc0",
+  "Depth": 1,
+  "InitiatingUserAgent": "FINOPS-45f83995-a118-449d-863e-209585d55e83-10.0.38",
+  "InitiatingUserAzureActiveDirectoryObjectId": "85a49934-14d2-45f1-ad96-12546cd99d39",
+  "InitiatingUserId": "84be08cc-afec-ee11-a1fd-6045bdc231fd",
+  "InputParameters": [
+    {
+      "key": "Target",
+      "value": {
+        "__type": "Entity:http://schemas.microsoft.com/xrm/2011/Contracts",
+        "Attributes": [
+          {
+            "key": "mserp_entityid",
+            "value": "501"
+          },
+          {
+            "key": "mserp_entityrelationtype",
+            "value": {
+              "__type": "OptionSetValue:http://schemas.microsoft.com/xrm/2011/Contracts",
+              "Value": 200000000
+            }
+          },
+          {
+            "key": "mserp_entityrelation",
+            "value": "0008-T"
+          },
+          {
+            "key": "mserp_priority",
+            "value": 0
+          },
+          {
+            "key": "mserp_autoprocess",
+            "value": {
+              "__type": "OptionSetValue:http://schemas.microsoft.com/xrm/2011/Contracts",
+              "Value": 200000000
+            }
+          },
+          {
+            "key": "mserp_dataareaid",
+            "value": "hfm"
+          },
+          {
+            "key": "mserp_fus_storereplenentitycodetableentityid",
+            "value": "00010436-0000-0000-7117-005001000000"
+          }
+        ],
+        "EntityState": null,
+        "FormattedValues": [
+        ],
+        "Id": "00010436-0000-0000-7117-005001000000",
+        "KeyAttributes": [
+        ],
+        "LogicalName": "mserp_fus_storereplenentitycodetableentity",
+        "RelatedEntities": [
+        ],
+        "RowVersion": null
+      }
+    }
+  ],
+  "IsExecutingOffline": false,
+  "IsInTransaction": false,
+  "IsOfflinePlayback": false,
+  "IsolationMode": 1,
+  "MessageName": "OnExternalCreated",
+  "Mode": 1,
+  "OperationCreatedOn": "/Date(1717129790000+0000)/",
+  "OperationId": "b63bcd6a-061f-ef11-840a-00224897b05c",
+  "OrganizationId": "38184a87-97ec-ee11-9046-002248932ac6",
+  "OrganizationName": "unq38184a8797ecee119046002248932",
+  "OutputParameters": [
+  ],
+  "OwningExtension": {
+    "Id": "4b34a039-061f-ef11-840a-00224897b05c",
+    "KeyAttributes": [
+    ],
+    "LogicalName": "sdkmessageprocessingstep",
+    "Name": null,
+    "RowVersion": null
+  },
+  "ParentContext": null,
+  "PostEntityImages": [
+  ],
+  "PreEntityImages": [
+  ],
+  "PrimaryEntityId": "00000000-0000-0000-0000-000000000000",
+  "PrimaryEntityName": "mserp_fus_storereplenentitycodetableentity",
+  "RequestId": "659a8a5f-ea92-4b84-8e96-96e9892d34fa",
+  "SecondaryEntityName": "none",
+  "SharedVariables": [
+    {
+      "key": "IsAutoTransact",
+      "value": false
+    },
+    {
+      "key": "AcceptLang",
+      "value": ""
+    }
+  ],
+  "Stage": 40,
+  "UserAzureActiveDirectoryObjectId": "85a49934-14d2-45f1-ad96-12546cd99d39",
+  "UserId": "84be08cc-afec-ee11-a1fd-6045bdc231fd"
+}
